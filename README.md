@@ -17,9 +17,9 @@ git clone https://github.com/your-username/cyber-security-tools.git
 cd port-scanner
 pip install -r requirements.txt
 ```
-###پیشنهادات و بهبودها
+### پیشنهادات و بهبودها
 اگر پیشنهادی برای بهبود این ابزار دارید یا با مشکلی روبرو شدید، لطفاً یک issue ایجاد کنید.
 
-###مشارکت
+### مشارکت
 اگر تمایل به مشارکت در این پروژه دارید، Fork کنید و Pull Request بفرستید. همچنین می‌توانید مشکلات (issues) مختلف را گزارش دهید.
 
